@@ -1,5 +1,8 @@
 import pyxel
 
+# 
+# https://kitao.github.io/pyxel/wasm/launcher/?run=y-c0.pyxel-practice.list05&gamepad=enabled
+#
 
 pyxel.init(128,128, title="inu")
 
